@@ -1,41 +1,49 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Divyani Ambagade | Portfolio</title>
-    <link rel="stylesheet" href="style.css">
-</head>
-<body>
+# 👋 Hi, I'm Divyani Ambagade
 
-<div class="container">
+## 🌟 About Me
+Hello! I'm Divyani, an AI Engineering student who is passionate about technology, programming, and Artificial Intelligence. I enjoy learning new skills and building projects that solve real-world problems.
 
-<h1>👋 Hi, I'm Divyani Ambagade</h1>
+## 🎓 Education
+- AI Engineering Student
+- Interested in Artificial Intelligence, Machine Learning, and Data Science
 
-<div class="card">
-<h2>🚀 About Me</h2>
-<p>
-I'm an AI Engineering student passionate about Artificial Intelligence,
-Machine Learning, Data Science, and Software Development.
-</p>
-</div>
+## 💻 Skills
+- Java
+- C++
+- HTML
+- CSS
+- JavaScript
+- Git & GitHub
+- Data Structures & Algorithms
 
-<div class="todo">
-<h2>📝 Current Focus</h2>
+## 📚 Currently Learning
+- React.js
+- Python for AI
+- Machine Learning
+- Deep Learning
+- Web Development
 
-<ul>
-<li>✅ Improve Programming Skills</li>
-<li>✅ Practice DSA</li>
-<li>🔄 Master Python for AI</li>
-<li>🔄 Learn Machine Learning</li>
-<li>🔄 Build AI Projects</li>
-<li>🔄 Learn Deep Learning</li>
-<li>🔄 Contribute to Open Source</li>
-</ul>
+## 🚀 My Goals
+- Become an AI Engineer
+- Build AI-powered applications
+- Contribute to Open Source
+- Improve problem-solving skills
+- Learn Cloud Computing and MLOps
 
-</div>
+## 📂 Projects
+- Java Programs
+- Data Structures in C++
+- Portfolio Website
+- AI & Data Science Projects (Coming Soon)
 
-</div>
+## 🎯 Hobbies
+- Coding
+- Learning New Technologies
+- Reading about AI
+- Solving Programming Problems
 
-</body>
-</html>
+## 📫 Connect With Me
+- GitHub: https://github.com/Divyaniambagade
+
+---
+⭐ Thank you for visiting my repository! Feel free to explore my projects and follow my journey.
