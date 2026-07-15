@@ -61,6 +61,63 @@ Hello! I'm Divyani, an AI Engineering student who is passionate about technology
 > 🔄 Solving DSA Problems  
 > 🔄 Learning React.js  
 > 🔄 Exploring Cloud & MLOps
+<table align="center" width="100%">
+<tr>
+<td>
+
+# 📌 Developer Dashboard
+
+<table width="100%">
+<tr>
+
+<td width="50%" valign="top">
+
+### 📝 To-Do
+- 🔄 Learn Python
+- 🔄 Build AI Projects
+- 🔄 Practice DSA
+
+</td>
+
+<td width="50%" valign="top">
+
+### 📚 Currently Learning
+- 🤖 Machine Learning
+- 🧠 Deep Learning
+- ☁️ MLOps
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+### 🚀 Goals
+- AI Engineer
+- Open Source
+- AI Internship
+
+</td>
+
+<td width="50%" valign="top">
+
+### 💻 Tech Stack
+- Java
+- C++
+- HTML/CSS
+- JavaScript
+- React
+
+</td>
+
+</tr>
+</table>
+
+</td>
+</tr>
+</table>
 
 </td>
 </tr>
