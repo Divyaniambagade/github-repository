@@ -1,14 +1,5 @@
 # My Portfolio
 <div align="center">
-<div align="center">
-
-<img src="https://your-gif-link.gif" width="320"/>
-
-# Hi, I'm Divyani Ambagade
-
-### AI Engineering Student • AI Enthusiast • Web Developer
-
-</div>
 
 # Hi, I'm Divyani Ambagade
 
