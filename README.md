@@ -48,4 +48,12 @@ Hello! I'm Divyani, an AI Engineering student who is passionate about technology
 
 ---
 ⭐ Thank you for visiting my repository! Feel free to explore my projects and follow my journey.
+# 👋 Hi, I'm Divyani Ambagade
+
+![AI Engineering](https://img.shields.io/badge/AI-Engineering-blue?style=for-the-badge)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge)
 
