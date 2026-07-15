@@ -39,6 +39,9 @@ I am **Divyani Ambagade**, an AI Engineering student passionate about building i
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFB6C1,100:87CEFA&height=220&section=header&text=Divyani%20Ambagade&fontSize=40&fontColor=ffffff"/>
+</p>
 
 </p>
 
