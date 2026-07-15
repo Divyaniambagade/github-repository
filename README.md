@@ -1,4 +1,4 @@
-# github-repository
+# My Portfolio
 # 👋 Hi, I'm Divyani Ambagade
 
 ## 🌟 About Me
