@@ -1,48 +1,36 @@
 # My Portfolio
 <div align="center">
 
-# 🌸 Hi, I'm Divyani Ambagade 👋
+# Hi, I'm Divyani Ambagade
 
-### 🎓 AI Engineering Student | 🤖 AI Enthusiast | 💻 Web Developer
+### AI Engineering Student • AI Enthusiast • Web Developer
 
-![Profile Views](https://img.shields.io/badge/Profile-Welcome-ffb6c1?style=for-the-badge)
-![AI Engineering](https://img.shields.io/badge/AI-Engineering-8A2BE2?style=for-the-badge)
-![GitHub](https://img.shields.io/badge/GitHub-Portfolio-87CEEB?style=for-the-badge)
+![Profile](https://img.shields.io/badge/Profile-Welcome-4A90E2?style=for-the-badge)
+![AI Engineering](https://img.shields.io/badge/AI-Engineering-6A5ACD?style=for-the-badge)
+![GitHub](https://img.shields.io/badge/GitHub-Portfolio-24292F?style=for-the-badge)
 
 </div>
 
 ---
 
-# 🌟 About Me
+# About Me
 
-✨ Hello! I'm **Divyani Ambagade**, an AI Engineering student who enjoys learning new technologies and creating innovative projects.
-
-🌸 I am passionate about:
-- 🤖 Artificial Intelligence
-- 📊 Data Science
-- 🌐 Web Development
-- 💡 Problem Solving
-- 📚 Continuous Learning
+I am **Divyani Ambagade**, an AI Engineering student passionate about building innovative solutions using Artificial Intelligence, Data Science, and Web Development. I enjoy learning new technologies and continuously improving my technical skills.
 
 ---
 
-# 🚀 Features
+# Features
 
-✅ Responsive Portfolio Website
-
-✅ Beautiful User Interface
-
-✅ About Me Section
-
-✅ Skills Section
-
-✅ Projects Showcase
-
-✅ Contact Information
+- Responsive Portfolio Website
+- Clean & Modern Design
+- About Me Section
+- Skills Section
+- Project Showcase
+- Contact Information
 
 ---
 
-# 💻 Technologies Used
+# Technologies Used
 
 <p align="center">
 
@@ -56,7 +44,7 @@
 
 ---
 
-# 📂 Folder Structure
+# Folder Structure
 
 ```text
 portfolio/
@@ -69,53 +57,52 @@ portfolio/
 
 ---
 
-# 📸 Portfolio Preview
+# Portfolio Preview
 
-🖥️ A clean, responsive portfolio website showcasing my skills and projects.
+A clean and responsive portfolio website showcasing my skills, projects, and achievements.
 
 ---
 
-# 🚀 Live Demo
+# Live Demo
 
-🌐 **Deployment Link**
+**Deployment Link**
 
 (Add your deployed website link here)
 
 ---
 
-# 📦 Repository
+# Repository
 
-🔗 **GitHub Repository**
+**GitHub Repository**
 
 (Add your GitHub repository link here)
 
 ---
 
-# 🎯 Future Goals
+# Goals
 
-- 🤖 Become an AI Engineer
-- 🚀 Build AI-powered Applications
-- 🌍 Contribute to Open Source
-- 📚 Learn Machine Learning & Deep Learning
-- ☁️ Explore Cloud Computing
+- Build AI-powered applications
+- Learn Machine Learning & Deep Learning
+- Contribute to Open Source
+- Improve problem-solving skills
+- Explore Cloud Computing and MLOps
 
 ---
 
-# 📞 Contact
+# Contact
 
-📧 Email: your-email@example.com
-
-🐙 GitHub:
+**GitHub:**  
 https://github.com/Divyaniambagade
+
+**Email:**  
+your-email@example.com
 
 ---
 
 <div align="center">
 
-### 🌸 Thank You for Visiting My Portfolio 🌸
+### Thank you for visiting my portfolio!
 
-⭐ If you like this project, don't forget to star the repository!
-
-💖 Happy Coding!
+If you found this project useful, consider giving it a ⭐.
 
 </div>
