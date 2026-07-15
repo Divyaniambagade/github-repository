@@ -1,6 +1,7 @@
+## WELCOME TO MY PORTFOLIO  >>
 # 👋 Hi, I'm Divyani Ambagade
 
-## 🌟 About Me
+##  About Me
 Hello! I'm Divyani, an AI Engineering student who is passionate about technology, programming, and Artificial Intelligence. I enjoy learning new skills and building projects that solve real-world problems.
 
 ## 🎓 Education
@@ -47,3 +48,22 @@ Hello! I'm Divyani, an AI Engineering student who is passionate about technology
 
 ---
 ⭐ Thank you for visiting my repository! Feel free to explore my projects and follow my journey.
+<div align="center">
+
+<table>
+<tr>
+<td width="500" align="left">
+
+### 🌱 Current Focus
+
+> ✅ Learning Python for AI  
+> 🔄 Building AI Projects  
+> 🔄 Solving DSA Problems  
+> 🔄 Learning React.js  
+> 🔄 Exploring Cloud & MLOps
+
+</td>
+</tr>
+</table>
+
+</div>
