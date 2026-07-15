@@ -1,4 +1,32 @@
 # My Portfolio
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Divyani Portfolio</title>
+<link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+<div id="intro">
+
+<div class="wizard">🧙‍♀️</div>
+
+<div class="wand">🪄</div>
+
+<div class="sparkles">
+✨ ✨ ✨ ✨ ✨
+</div>
+
+<h1 id="magicText">Welcome to My Portfolio</h1>
+
+</div>
+
+<script src="script.js"></script>
+
+</body>
+</html>
 <div align="center">
 
 # Hi, I'm Divyani Ambagade
