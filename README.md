@@ -1,7 +1,5 @@
-# WELCOME TO MY PROTOFLIO
+# WELCOME TO MY PROTOFLIO !!
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,100:2563EB"/>
-
   # Hi, I'm Divyani Ambagade
 
 ### AI Engineering Student • AI Enthusiast • Web Developer
