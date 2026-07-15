@@ -95,7 +95,7 @@ A clean and responsive portfolio website showcasing my skills, projects, and ach
 https://github.com/Divyaniambagade
 
 **Email:**  
-your-email@example.com
+divyaniambagaade563@gmail.com
 
 ---
 
