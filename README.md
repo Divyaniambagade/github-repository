@@ -1,5 +1,6 @@
 # WELCOME TO MY PROTOFLIO
 <div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,100:2563EB"/>
 
   # Hi, I'm Divyani Ambagade
 
@@ -33,9 +34,6 @@ I am **Divyani Ambagade**, an AI Engineering student passionate about building i
 # Technologies Used
 
 <p align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,100:2563EB"/>
-
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
